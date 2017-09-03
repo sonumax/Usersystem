@@ -1,4 +1,4 @@
-package systems.model;
+package system.model;
 
 public class User {
     private String name;

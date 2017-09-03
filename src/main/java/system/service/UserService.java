@@ -1,9 +1,9 @@
-package systems.service;
+package system.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import systems.dao.UserDao;
-import systems.model.User;
+import system.dao.UserDao;
+import system.model.User;
 
 import java.util.List;
 
