@@ -6,7 +6,7 @@
 
     <mvc:annotation-driven/>
 
-    <context:component-scan base-package="systems"/>
+    <context:component-scan base-package="system"/>
 
     <mvc:view-controller path="/" view-name="users_page"/>
 
